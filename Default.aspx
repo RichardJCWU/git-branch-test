@@ -16,6 +16,12 @@ CodeFile="Default.aspx.cs" Inherits="DefaultPage" %>
     
         <asp:Button ID="Button2" runat="server" Text="Button2" 
             onclick="Button2_Click" />
+        <asp:Button ID="Button3" runat="server" Text="Button2" 
+            onclick="Button2_Click" />
+                <asp:Button ID="Button4" runat="server" Text="Button2" 
+            onclick="Button2_Click" />
+                <asp:Button ID="Button5" runat="server" Text="Button2" 
+            onclick="Button2_Click" />
     
     </div>
     </form>
