@@ -22,6 +22,8 @@ CodeFile="Default.aspx.cs" Inherits="DefaultPage" %>
             onclick="Button2_Click" />
                 <asp:Button ID="Button5" runat="server" Text="Button2" 
             onclick="Button2_Click" />
+>>>>>>>>> Temporary merge branch 2
+>>>>>>>>> Temporary merge branch 2
     
     </div>
     </form>
